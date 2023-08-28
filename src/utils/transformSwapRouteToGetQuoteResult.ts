@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount } from 'thebuilderdesign/sdk-core'
 import { Protocol } from '@uniswap/router-sdk'
 import { routeAmountsToString, SwapRoute } from '@uniswap/smart-order-router'
 import { Pool } from '@uniswap/v3-sdk'

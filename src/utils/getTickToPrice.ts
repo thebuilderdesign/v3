@@ -1,4 +1,4 @@
-import { Price, Token } from '@thebuilderdesign/sdk-core'
+import { Price, Token } from 'thebuilderdesign/sdk-core'
 import { tickToPrice } from '@uniswap/v3-sdk'
 
 export function getTickToPrice(baseToken?: Token, quoteToken?: Token, tick?: number): Price<Token, Token> | undefined {

@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, Price, Token, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent, Price, Token, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 import { NATIVE_CHAIN_ID } from 'constants/tokens'
 import { InterfaceTrade } from 'state/routing/types'

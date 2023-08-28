@@ -1,4 +1,4 @@
-import { Currency, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, Token } from 'thebuilderdesign/sdk-core'
 import TokenSafety from 'components/TokenSafety'
 import { memo, useCallback, useEffect, useState } from 'react'
 import { useUserAddedTokens } from 'state/user/hooks'

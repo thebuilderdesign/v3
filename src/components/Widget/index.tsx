@@ -1,4 +1,4 @@
-import { Currency, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, TradeType } from 'thebuilderdesign/sdk-core'
 import { sendAnalyticsEvent, useTrace } from '@uniswap/analytics'
 import { EventName, SectionName, SwapPriceUpdateUserResponse } from '@uniswap/analytics-events'
 import { Trade } from '@uniswap/router-sdk'

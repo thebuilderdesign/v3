@@ -1,6 +1,6 @@
 /* eslint-disable import/no-unused-modules */
 // eslint-disable-next-line no-restricted-imports
-import { Currency, Ether, NativeCurrency, Token, WETH9 } from '@thebuilderdesign/sdk-core'
+import { Currency, Ether, NativeCurrency, Token, WETH9 } from 'thebuilderdesign/sdk-core'
 import invariant from 'tiny-invariant'
 
 import { UNI_ADDRESS } from './addresses'

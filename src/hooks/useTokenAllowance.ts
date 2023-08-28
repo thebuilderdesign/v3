@@ -1,6 +1,6 @@
 import { BigNumberish } from '@ethersproject/bignumber'
 import { ContractTransaction } from '@ethersproject/contracts'
-import { CurrencyAmount, MaxUint256, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, MaxUint256, Token } from 'thebuilderdesign/sdk-core'
 import { useSingleCallResult } from 'lib/hooks/multicall'
 import { useCallback, useMemo } from 'react'
 import { ApproveTransactionInfo, TransactionType } from 'state/transactions/types'

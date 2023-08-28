@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent } from 'thebuilderdesign/sdk-core'
 import JSBI from 'jsbi'
 
 import { ONE_HUNDRED_PERCENT } from '../constants/misc'

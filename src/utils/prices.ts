@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Fraction, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Fraction, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 import { Pair } from '@uniswap/v2-sdk'
 import { FeeAmount } from '@uniswap/v3-sdk'

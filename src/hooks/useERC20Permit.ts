@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { splitSignature } from '@ethersproject/bytes'
-import { Currency, CurrencyAmount, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 import { useWeb3React } from '@web3-react/core'
 import JSBI from 'jsbi'

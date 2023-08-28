@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, TradeType } from 'thebuilderdesign/sdk-core'
 import { Route, SwapQuoter } from '@uniswap/v3-sdk'
 import { useWeb3React } from '@web3-react/core'
 // import { SupportedChainId } from 'constants/chains'

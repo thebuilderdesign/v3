@@ -1,4 +1,4 @@
-import { Currency, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 
 /**

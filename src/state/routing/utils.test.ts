@@ -1,4 +1,4 @@
-import { Token, TradeType } from '@thebuilderdesign/sdk-core'
+import { Token, TradeType } from 'thebuilderdesign/sdk-core'
 
 import { nativeOnChain } from '../../constants/tokens'
 import { computeRoutes } from './utils'

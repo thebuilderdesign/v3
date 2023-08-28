@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, CurrencyAmount, Percent, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent, Token } from 'thebuilderdesign/sdk-core'
 import { TraceEvent } from '@uniswap/analytics'
 import { BrowserEvent, ElementName, EventName } from '@uniswap/analytics-events'
 import { Pair } from '@uniswap/v2-sdk'

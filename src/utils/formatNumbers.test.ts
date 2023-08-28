@@ -1,4 +1,4 @@
-import { CurrencyAmount, Price } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Price } from 'thebuilderdesign/sdk-core'
 import { renBTC, USDC_MAINNET } from 'constants/tokens'
 
 import {

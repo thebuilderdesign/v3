@@ -1,7 +1,7 @@
 import { Trans } from '@lingui/macro'
 // eslint-disable-next-line no-restricted-imports
 import { t } from '@lingui/macro'
-import { Currency, CurrencyAmount, Percent } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent } from 'thebuilderdesign/sdk-core'
 import { formatCurrencyAmount, formatPriceImpact, NumberType } from '@uniswap/conedison/format'
 import { LoadingBubble } from 'components/Tokens/loading'
 import { MouseoverTooltip } from 'components/Tooltip'

@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import JSBI from 'jsbi'
 import styled from 'styled-components/macro'
 

@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency } from '@thebuilderdesign/sdk-core'
+import { Currency } from 'thebuilderdesign/sdk-core'
 import { Protocol } from '@uniswap/router-sdk'
 import { FeeAmount } from '@uniswap/v3-sdk'
 import Badge from 'components/Badge'

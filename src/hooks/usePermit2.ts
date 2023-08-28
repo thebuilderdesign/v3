@@ -1,5 +1,5 @@
 import { ContractTransaction } from '@ethersproject/contracts'
-import { CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import { PERMIT2_ADDRESS } from '@uniswap/permit2-sdk'
 import { useWeb3React } from '@web3-react/core'
 import { AVERAGE_L1_BLOCK_TIME } from 'constants/chainInfo'

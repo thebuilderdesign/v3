@@ -1,4 +1,4 @@
-import { Percent } from '@thebuilderdesign/sdk-core'
+import { Percent } from 'thebuilderdesign/sdk-core'
 import { Slippage, SwapController, SwapEventHandlers } from '@uniswap/widgets'
 import { DEFAULT_DEADLINE_FROM_NOW } from 'constants/misc'
 import { useCallback, useMemo, useState } from 'react'

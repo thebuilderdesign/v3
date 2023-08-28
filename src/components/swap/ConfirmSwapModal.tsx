@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, CurrencyAmount, Percent, Token, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent, Token, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trace } from '@uniswap/analytics'
 import { ModalName } from '@uniswap/analytics-events'
 import { Trade } from '@uniswap/router-sdk'

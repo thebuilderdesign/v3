@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import { useWeb3React } from '@web3-react/core'
 import { getConnection } from 'connection/utils'
 import { getChainInfoOrDefault } from 'constants/chainInfo'

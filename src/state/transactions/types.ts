@@ -1,4 +1,4 @@
-import { TradeType } from '@thebuilderdesign/sdk-core'
+import { TradeType } from 'thebuilderdesign/sdk-core'
 
 import { VoteOption } from '../governance/types'
 

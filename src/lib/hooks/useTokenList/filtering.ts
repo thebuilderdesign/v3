@@ -1,4 +1,4 @@
-import { NativeCurrency, Token } from '@thebuilderdesign/sdk-core'
+import { NativeCurrency, Token } from 'thebuilderdesign/sdk-core'
 import { TokenInfo } from '@uniswap/token-lists'
 
 import { isAddress } from '../../../utils'

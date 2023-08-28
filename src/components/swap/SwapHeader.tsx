@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Percent } from '@thebuilderdesign/sdk-core'
+import { Percent } from 'thebuilderdesign/sdk-core'
 import styled from 'styled-components/macro'
 
 import { ThemedText } from '../../theme'

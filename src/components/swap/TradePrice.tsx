@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, Price } from '@thebuilderdesign/sdk-core'
+import { Currency, Price } from 'thebuilderdesign/sdk-core'
 import useStablecoinPrice from 'hooks/useStablecoinPrice'
 import { useCallback } from 'react'
 import { Text } from 'rebass'

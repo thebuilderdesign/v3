@@ -1,4 +1,4 @@
-import { Price, Token } from '@thebuilderdesign/sdk-core'
+import { Price, Token } from 'thebuilderdesign/sdk-core'
 import {
   encodeSqrtRatioX96,
   FeeAmount,

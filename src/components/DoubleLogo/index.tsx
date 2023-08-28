@@ -1,4 +1,4 @@
-import { Currency } from '@thebuilderdesign/sdk-core'
+import { Currency } from 'thebuilderdesign/sdk-core'
 import styled from 'styled-components/macro'
 
 import CurrencyLogo from '../Logo/CurrencyLogo'

@@ -1,5 +1,5 @@
 import { parseUnits } from '@ethersproject/units'
-import { Currency, CurrencyAmount } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount } from 'thebuilderdesign/sdk-core'
 import JSBI from 'jsbi'
 
 /**

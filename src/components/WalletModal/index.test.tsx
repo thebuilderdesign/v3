@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import * as connectionUtils from 'connection/utils'
 import { ApplicationModal } from 'state/application/reducer'
 

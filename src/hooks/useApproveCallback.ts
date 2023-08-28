@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 import useSwapApproval from 'lib/hooks/swap/useSwapApproval'
 import { ApprovalState, useApproval } from 'lib/hooks/useApproval'

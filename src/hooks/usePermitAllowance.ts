@@ -1,4 +1,4 @@
-import { Token } from '@thebuilderdesign/sdk-core'
+import { Token } from 'thebuilderdesign/sdk-core'
 import {
   AllowanceData,
   AllowanceProvider,

@@ -1,7 +1,7 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import type { TransactionResponse } from '@ethersproject/providers'
 import { Trans } from '@lingui/macro'
-import { Currency, CurrencyAmount, Percent } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent } from 'thebuilderdesign/sdk-core'
 import { TraceEvent } from '@uniswap/analytics'
 import { BrowserEvent, ElementName, EventName } from '@uniswap/analytics-events'
 import { FeeAmount, NonfungiblePositionManager } from '@uniswap/v3-sdk'

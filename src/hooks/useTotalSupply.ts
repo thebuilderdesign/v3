@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import { useSingleCallResult } from 'lib/hooks/multicall'
 import { useMemo } from 'react'
 

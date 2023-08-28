@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, CurrencyAmount, Percent } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Percent } from 'thebuilderdesign/sdk-core'
 import { Position } from '@uniswap/v3-sdk'
 import { useWeb3React } from '@web3-react/core'
 import { useToken } from 'hooks/Tokens'

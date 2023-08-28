@@ -1,6 +1,6 @@
 import type { TransactionResponse } from '@ethersproject/providers'
 import { Trans } from '@lingui/macro'
-import { CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import StakingRewardsJson from '@uniswap/liquidity-staker/build/StakingRewards.json'
 import { Pair } from '@uniswap/v2-sdk'
 import { useWeb3React } from '@web3-react/core'

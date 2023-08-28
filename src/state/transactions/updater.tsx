@@ -1,4 +1,4 @@
-import { Currency, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { sendAnalyticsEvent } from '@uniswap/analytics'
 import { EventName } from '@uniswap/analytics-events'
 import { useWeb3React } from '@web3-react/core'

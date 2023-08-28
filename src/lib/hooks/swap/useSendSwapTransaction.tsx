@@ -2,7 +2,7 @@ import { BigNumber } from '@ethersproject/bignumber'
 import type { JsonRpcProvider, TransactionResponse } from '@ethersproject/providers'
 // eslint-disable-next-line no-restricted-imports
 import { t, Trans } from '@lingui/macro'
-import { Currency, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, TradeType } from 'thebuilderdesign/sdk-core'
 import { sendAnalyticsEvent } from '@uniswap/analytics'
 import { EventName } from '@uniswap/analytics-events'
 import { Trade } from '@uniswap/router-sdk'

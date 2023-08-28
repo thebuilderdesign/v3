@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Token } from 'thebuilderdesign/sdk-core'
 import { TraceEvent } from '@uniswap/analytics'
 import { BrowserEvent, ElementName, EventName } from '@uniswap/analytics-events'
 import { useWeb3React } from '@web3-react/core'

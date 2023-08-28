@@ -1,4 +1,4 @@
-import { Currency, Token } from '@thebuilderdesign/sdk-core'
+import { Currency, Token } from 'thebuilderdesign/sdk-core'
 import { useMemo } from 'react'
 
 import { ADDITIONAL_BASES, BASES_TO_CHECK_TRADES_AGAINST, CUSTOM_BASES } from '../constants/routing'

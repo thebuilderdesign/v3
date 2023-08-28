@@ -1,6 +1,6 @@
 import { BigNumber } from '@ethersproject/bignumber'
 import { Trans } from '@lingui/macro'
-import { CurrencyAmount, Fraction, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Fraction, Token } from 'thebuilderdesign/sdk-core'
 import { Trace } from '@uniswap/analytics'
 import { PageName } from '@uniswap/analytics-events'
 import { useWeb3React } from '@web3-react/core'

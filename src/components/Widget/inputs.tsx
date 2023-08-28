@@ -140,7 +140,7 @@ function invertField(field: Field) {
   }
 }
 
-// TODO(zzmp): Include in @thebuilderdesign/sdk-core (on TradeType, if possible).
+// TODO(zzmp): Include in thebuilderdesign/sdk-core (on TradeType, if possible).
 function invertTradeType(tradeType: TradeType) {
   switch (tradeType) {
     case TradeType.EXACT_INPUT:

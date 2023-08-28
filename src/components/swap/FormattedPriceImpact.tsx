@@ -1,4 +1,4 @@
-import { Percent } from '@thebuilderdesign/sdk-core'
+import { Percent } from 'thebuilderdesign/sdk-core'
 
 import { warningSeverity } from '../../utils/prices'
 import { ErrorText } from './styleds'

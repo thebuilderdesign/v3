@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, Price } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, Price } from 'thebuilderdesign/sdk-core'
 import { DEFAULT_LOCALE, SUPPORTED_LOCALES } from 'constants/locales'
 
 interface FormatLocaleNumberArgs {

@@ -1,5 +1,5 @@
 import { Trans } from '@lingui/macro'
-import { Currency, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { sendAnalyticsEvent } from '@uniswap/analytics'
 import { EventName, SwapPriceUpdateUserResponse } from '@uniswap/analytics-events'
 import { getPriceUpdateBasisPoints } from 'lib/utils/analytics'

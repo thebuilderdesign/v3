@@ -1,4 +1,4 @@
-import { Currency, Percent } from '@thebuilderdesign/sdk-core'
+import { Currency, Percent } from 'thebuilderdesign/sdk-core'
 import { Protocol } from '@uniswap/router-sdk'
 import { FeeAmount } from '@uniswap/v3-sdk'
 import { RoutingDiagramEntry } from 'components/swap/SwapRoute'

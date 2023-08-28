@@ -1,4 +1,4 @@
-import { Currency, CurrencyAmount, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, CurrencyAmount, TradeType } from 'thebuilderdesign/sdk-core'
 import { useMemo } from 'react'
 import { RouterPreference } from 'state/routing/slice'
 

@@ -1,4 +1,4 @@
-import { Currency, Percent, TradeType } from '@thebuilderdesign/sdk-core'
+import { Currency, Percent, TradeType } from 'thebuilderdesign/sdk-core'
 import { Trade } from '@uniswap/router-sdk'
 import { useWeb3React } from '@web3-react/core'
 import { usePermit2Enabled } from 'featureFlags/flags/permit2'

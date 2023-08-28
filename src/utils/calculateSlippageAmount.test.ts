@@ -1,5 +1,5 @@
 import { AddressZero } from '@ethersproject/constants'
-import { CurrencyAmount, Percent, Token } from '@thebuilderdesign/sdk-core'
+import { CurrencyAmount, Percent, Token } from 'thebuilderdesign/sdk-core'
 
 import { calculateSlippageAmount } from './calculateSlippageAmount'
 
