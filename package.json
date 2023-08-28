@@ -147,6 +147,7 @@
     "@uniswap/redux-multicall": "^1.1.8",
     "@uniswap/router-sdk": "^1.3.0",
     "thebuilderdesign/sdk-core": "https://github.com/thebuilderdesign/sdk-core/",
+    "@uniswap/sdk-core": "^3.0.1",
     "@uniswap/smart-order-router": "^2.10.0",
     "@uniswap/token-lists": "^1.0.0-beta.30",
     "@uniswap/universal-router-sdk": "1.3.0",
